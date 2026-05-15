@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "moc.gapbk"]
 	path = moc.gapbk
-	url = https://github.com/cran/moc.gapbk
+	url = https://github.com/jorgeklz/package-moc.gapbk
 [submodule "mstknnclust"]
 	path = mstknnclust
 	url = https://github.com/jorgeklz/package-mstknnclust
