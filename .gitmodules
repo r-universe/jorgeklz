@@ -5,6 +5,9 @@
 [submodule "moc.gapbk"]
 	path = moc.gapbk
 	url = https://github.com/jorgeklz/package-moc.gapbk
+[submodule "momst"]
+	path = momst
+	url = https://github.com/jorgeklz/momst
 [submodule "mstknnclust"]
 	path = mstknnclust
 	url = https://github.com/jorgeklz/package-mstknnclust
